@@ -1,0 +1,32 @@
+body{
+    padding: 50px 100px;
+    background-image: url(https://images.unsplash.com/photo-1585594219497-c16198d7792f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1331&q=80) ;
+    background-repeat: no-repeat;
+   
+}
+h1{
+    text-align: center;
+}
+
+#container{
+    text-align: center;
+    background-color: rgb(135, 176, 222);
+    padding: 20px;
+
+}
+
+.input-div{
+    display: inline-block;
+}
+
+.inp{
+    padding: 5px 10px;
+    margin: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+}
+label{
+    font-size: 25px;
+   
+}
